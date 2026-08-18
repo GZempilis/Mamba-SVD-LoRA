@@ -1,0 +1,9 @@
+torch
+transformers
+peft
+spacy
+datasets
+trl
+torchinfo
+matplotlib
+seaborn
