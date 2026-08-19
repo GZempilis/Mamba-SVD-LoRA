@@ -25,6 +25,8 @@ This project investigates the post-training compression of the **Mamba-130M** mo
 You can run this project instantly in your browser using Google Colab by clicking the badge above, or run it locally by installing the dependencies:
 ```bash
 pip install -r requirements.txt
+```
+
 
 
 
