@@ -27,6 +27,7 @@ You can run this project instantly in your browser using Google Colab by clickin
 pip install -r requirements.txt
 ```
 
+** For detailed academic analysis check the **`Report/Project_report.pdf`**
 
 
 
