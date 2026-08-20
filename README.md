@@ -22,7 +22,7 @@ This project investigates the post-training compression of the **Mamba-130M** mo
 **Trained Model Weights:** You can download the trained model weights from the official [Google Drive Folder](https://drive.google.com/drive/folders/1quvdgMAhI9kr2hU0vQW_lMV3OyGoD1Q3?usp=drive_link).
 
 ## How to Run
-You can run this project instantly in your browser using Google Colab by clicking the badge above, or run it locally by installing the dependencies:
+You can run this project instantly in your browser using Google Colab by clicking the badge above, or run it locally by installing the dependencies(local run is not recommended due to intensive computational load):
 ```bash
 pip install -r requirements.txt
 ```
