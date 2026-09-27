@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red.svg)
 ![Mamba](https://img.shields.io/badge/Mamba-SSM-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Project Overview
 State Space Models (SSMs) like **Mamba** offer a highly efficient alternative to traditional Transformer architectures by mitigating the quadratic bottleneck of global attention ($O(L)$ scaling). 
